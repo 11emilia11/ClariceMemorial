@@ -1,0 +1,39 @@
+body {
+  background-color: #FAFFFF;
+ 
+}
+
+h3 {
+  text-align: center;
+  color: #3D4644;
+
+}
+
+.bio-container {
+
+  background-color:  #B7D2CD;
+  color: #5C7373;
+  text-align: center;
+  border-radius: 8px;
+  padding: 32px;
+  margin: 32px
+
+}
+
+.date-birth {
+  color:#7A9999;
+
+}
+
+img {
+ 
+}
+
+.description{
+
+  margin: 32px;
+  padding: 32px;
+  background-color:#F2FFFF;
+  border-radius: 8px;
+
+}

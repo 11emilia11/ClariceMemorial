@@ -54,7 +54,23 @@ img {
   
 }
 
+.titulo-lista {
+  text-align: center;
+  font-weight: 600;
+  color: rgb(69, 87, 87)
+}
+
 ul {
+  margin: 32px;
+  padding: 32px;
+  text-align: center;
+
   
+}
+
+li {
+  margin-bottom: 10px;
   list-style-type: none;
+  font-weight: 400;
+  color: #5C7373;
 }

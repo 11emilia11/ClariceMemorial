@@ -1,39 +1,60 @@
 body {
-  background-color: #FAFFFF;
+  background-color: #e8d6cb;
+  font-family: 'Lora', serif;
  
 }
 
-h3 {
+h1 {
   text-align: center;
   color: #3D4644;
+  margin-bottom: 10px;
+  
 
 }
 
 .bio-container {
-
+  
+  align-items: center;
   background-color:  #B7D2CD;
   color: #5C7373;
-  text-align: center;
+  
   border-radius: 8px;
   padding: 32px;
   margin: 32px
 
 }
 
+pre {
+  text-align: right;
+  margin-right: 32px;
+  
+}
+
+
 .date-birth {
+  text-align: center;
   color:#7A9999;
+  margin-top: 0;
+
+}
+
+.description{
+  text-align: center;
+  margin: 32px;
+  padding: 32px;
+  background-color:#e8d6cb;
+  border-radius: 8px;
+  color: #5C7373;
 
 }
 
 img {
- 
+  margin: 32px;
+  border-radius: 8px;
+  
 }
 
-.description{
-
-  margin: 32px;
-  padding: 32px;
-  background-color:#F2FFFF;
-  border-radius: 8px;
-
+ul {
+  
+  list-style-type: none;
 }
